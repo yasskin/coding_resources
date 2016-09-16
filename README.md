@@ -11,3 +11,8 @@ Coding Resources
 * Devise How Tos https://github.com/plataformatec/devise/wiki/How-Tos
 * Launch School tutorial on Devise https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 
+## Mail
+* MailGun for deploying http://www.mailgun.com/
+
+Action Mailer
+* RubyOnRails.Org - Action Mailer Basics http://guides.rubyonrails.org/action_mailer_basics.html
