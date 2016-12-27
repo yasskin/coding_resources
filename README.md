@@ -6,6 +6,12 @@ Coding Resources
 * Ryan Bates' Railscast: http://railscasts.com/episodes/250-authentication-from-scratch
 * Codecademy's Ruby on Rails: Authentication and Authorization: http://www.codecademy.com/en/learn/rails-auth
 
+## CSS
+* Download normalize.css https://necolas.github.io/normalize.css/
+* About normalize.css http://nicolasgallagher.com/about-normalize-css/
+* Eric Meyer’s Reset CSS http://meyerweb.com/eric/tools/css/reset/
+* Popular CSS resets, all in one place http://cssreset.com/
+
 ## Devise
 * Devise Official README http://devise.plataformatec.com.br/
 * Devise How Tos https://github.com/plataformatec/devise/wiki/How-Tos
