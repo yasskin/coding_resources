@@ -1,6 +1,11 @@
 # coding_resources
 Coding Resources
 
+## Analytics
+
+* Google: Digital Analytics Fundamentals
+https://analyticsacademy.withgoogle.com/
+
 ## CSS
 * Download normalize.css 
 https://necolas.github.io/normalize.css/
