@@ -48,3 +48,7 @@ https://www.railstutorial.org/book/modeling_users
 http://railscasts.com/episodes/250-authentication-from-scratch
 * Codecademy's Ruby on Rails: Authentication and Authorization: 
 http://www.codecademy.com/en/learn/rails-auth
+
+## UX Design
+* Mockingbird https://gomockingbird.com/home
+* myBalsamiq https://www.mybalsamiq.com/
