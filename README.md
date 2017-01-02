@@ -41,6 +41,9 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 
 ## Rails
 
+* Michael Hartl's online tutorial (Rails 5): 
+https://www.railstutorial.org/
+
 ## Rails Authentication
 * Michael Hartl's online book: 
 https://www.railstutorial.org/book/modeling_users
