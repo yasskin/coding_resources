@@ -1,4 +1,5 @@
 # coding_resources
+
 Coding Resources
 
 ## Analytics
@@ -7,6 +8,7 @@ Coding Resources
 https://analyticsacademy.withgoogle.com/
 
 ## CSS
+
 * Download normalize.css 
 https://necolas.github.io/normalize.css/
 * About normalize.css 
@@ -29,6 +31,7 @@ Sizing with vh units
 https://snook.ca/archives/html_and_css/vm-vh-units
 
 ## Devise
+
 * Devise Official README 
 http://devise.plataformatec.com.br/
 * Devise How Tos 
@@ -37,6 +40,7 @@ https://github.com/plataformatec/devise/wiki/How-Tos
 https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 
 ## Email
+
 * MailGun for deploying 
 http://www.mailgun.com/
 
@@ -56,6 +60,22 @@ https://www.railstutorial.org/book/modeling_users
 http://railscasts.com/episodes/250-authentication-from-scratch
 * Codecademy's Ruby on Rails: Authentication and Authorization: 
 http://www.codecademy.com/en/learn/rails-auth
+
+## Training
+
+Egghead
+https://egghead.io/
+freeCodeCamp: Learn to code and help nonprofits
+https://www.freecodecamp.com/
+The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
+http://thegymnasium.com/
+Pluralsight | Unlimited Online Developer, IT and Creative Training
+https://www.pluralsight.com/
+Treehouse
+https://teamtreehouse.com/home
+Udemy
+https://www.udemy.com
+
 
 ## UX Design
 * Mockingbird https://gomockingbird.com/home
