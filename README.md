@@ -63,17 +63,17 @@ http://www.codecademy.com/en/learn/rails-auth
 
 ## Training
 
-Egghead
+* Egghead
 https://egghead.io/
-freeCodeCamp: Learn to code and help nonprofits
+* freeCodeCamp: Learn to code and help nonprofits
 https://www.freecodecamp.com/
-The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
+* The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
 http://thegymnasium.com/
-Pluralsight | Unlimited Online Developer, IT and Creative Training
+* Pluralsight | Unlimited Online Developer, IT and Creative Training
 https://www.pluralsight.com/
-Treehouse
+* Treehouse
 https://teamtreehouse.com/home
-Udemy
+* Udemy
 https://www.udemy.com
 
 
