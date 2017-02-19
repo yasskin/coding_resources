@@ -6,6 +6,10 @@ Coding Resources
 
 * Google: Digital Analytics Fundamentals
 https://analyticsacademy.withgoogle.com/
+* Kissmetrics
+https://www.kissmetrics.com/
+* VWO Visual Website Optimizer
+https://vwo.com/
 
 ## CSS
 
@@ -25,6 +29,8 @@ http://bradfrost.com/blog/web/mobile-first-responsive-web-design/
 http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts
 * Take Control of the Box Model with box-sizing 
 http://blog.teamtreehouse.com/take-control-of-the-box-model-with-box-sizing
+CSS Tricks
+https://css-tricks.com/
 CSS Tricks - Sticky Footer
 https://css-tricks.com/snippets/css/sticky-footer/
 Sizing with vh units
@@ -63,6 +69,8 @@ http://www.codecademy.com/en/learn/rails-auth
 
 ## Training
 
+* Code School
+https://www.codeschool.com/
 * Egghead
 https://egghead.io/
 * freeCodeCamp: Learn to code and help nonprofits
@@ -76,7 +84,14 @@ https://teamtreehouse.com/home
 * Udemy
 https://www.udemy.com
 
-
 ## UX Design
-* Mockingbird https://gomockingbird.com/home
-* myBalsamiq https://www.mybalsamiq.com/
+* Mockingbird 
+https://gomockingbird.com/home
+* myBalsamiq 
+https://www.mybalsamiq.com/
+
+## Web Development
+* A List Apart
+https://alistapart.com/
+* Smashing Magazine
+https://www.smashingmagazine.com/
