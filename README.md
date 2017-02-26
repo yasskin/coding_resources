@@ -76,6 +76,15 @@ http://learnsketch.com/
 * Level Up Tutorials of Sketch
 https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
+## Tools
+
+* Babel to manage the varying stages of browser support for new JS features.
+https://babeljs.io/ 
+  * Introduction to Babel on Treehouse for help getting set up. 
+  https://teamtreehouse.com/library/introduction-to-babel
+* Can I Use? caniuse.com is also a good reference to check cross-browser support for features you want to use.
+http://caniuse.com/
+
 ## Training & Tutorials
 
 * Code School
