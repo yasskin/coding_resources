@@ -71,8 +71,12 @@ http://www.codecademy.com/en/learn/rails-auth
 
 * Sketch tutorials
 https://sketchapp.com/learn/
+* Learn Sketch: 
+http://learnsketch.com/
+* Level Up Tutorials of Sketch
+https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
-## Training
+## Training & Tutorials
 
 * Code School
 https://www.codeschool.com/
@@ -82,6 +86,8 @@ https://egghead.io/
 https://www.freecodecamp.com/
 * The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
 http://thegymnasium.com/
+* Level Up Tutorials
+https://leveluptutorials.com/
 * Pluralsight | Unlimited Online Developer, IT and Creative Training
 https://www.pluralsight.com/
 * Treehouse
