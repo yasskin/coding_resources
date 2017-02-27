@@ -58,6 +58,8 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 
 * MEAN Stack RESTful API Tutorial (1/5) - Using MongoDB, Express, Angular JS, and Node JS Together
 https://www.youtube.com/watch?v=kHV7gOHvNdk
+* Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0
+https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 
 ## Rails
 
