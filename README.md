@@ -54,6 +54,11 @@ Action Mailer
 * RubyOnRails.Org - Action Mailer Basics 
 http://guides.rubyonrails.org/action_mailer_basics.html
 
+## Mean Stack
+
+* MEAN Stack RESTful API Tutorial (1/5) - Using MongoDB, Express, Angular JS, and Node JS Together
+https://www.youtube.com/watch?v=kHV7gOHvNdk
+
 ## Rails
 
 * Michael Hartl's online tutorial (Rails 5): 
