@@ -54,6 +54,10 @@ Action Mailer
 * RubyOnRails.Org - Action Mailer Basics 
 http://guides.rubyonrails.org/action_mailer_basics.html
 
+## Express
+
+* Official ExpressJS Page (check out the "Getting Started" and other Guide there!): http://expressjs.com/
+
 ## JavaScript
 
 * JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate https://javascript30.com/
@@ -64,6 +68,11 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 https://www.youtube.com/watch?v=kHV7gOHvNdk
 * Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0
 https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
+
+## Node
+* Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
+* An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+* Creating a Basic NodeJS + ExpressJS App from Scratch: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 
 ## Rails
 
