@@ -69,6 +69,12 @@ https://www.youtube.com/watch?v=kHV7gOHvNdk
 * Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0
 https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 
+## MongoDB
+
+* Official MongoDB Page: https://www.mongodb.com/
+* Setup Instructions on Official Page (choose your OS): https://docs.mongodb.com/manual/administration/install-community/
+* Mongoose Docs: http://mongoosejs.com/docs/guide.html
+
 ## Node
 * Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
 * An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
