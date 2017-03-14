@@ -126,6 +126,8 @@ https://egghead.io/
 https://www.freecodecamp.com/
 * The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
 http://thegymnasium.com/
+* Launch Code
+https://www.launchcode.org/
 * Level Up Tutorials
 https://leveluptutorials.com/
 * Pluralsight | Unlimited Online Developer, IT and Creative Training
