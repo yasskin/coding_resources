@@ -11,6 +11,13 @@ https://www.kissmetrics.com/
 * VWO Visual Website Optimizer
 https://vwo.com/
 
+## Angular2
+
+* Augular
+https://angular.io/
+* The Tour of Heroes tutorial takes you through the steps of creating an Angular application in TypeScript.
+https://angular.io/docs/ts/latest/tutorial/
+
 ## CSS
 
 * Download normalize.css 
