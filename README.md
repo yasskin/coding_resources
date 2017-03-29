@@ -158,5 +158,7 @@ https://www.mybalsamiq.com/
 ## Web Development
 * A List Apart
 https://alistapart.com/
+* caniuse.com: Browser support tables for modern web technologies
+http://caniuse.com/
 * Smashing Magazine
 https://www.smashingmagazine.com/
