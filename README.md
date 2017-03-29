@@ -4,37 +4,37 @@ Coding Resources
 
 ## Analytics
 
-* Google: Digital Analytics Fundamentals
+* Google: Digital Analytics Fundamentals  
 https://analyticsacademy.withgoogle.com/
-* Kissmetrics
+* Kissmetrics  
 https://www.kissmetrics.com/
-* VWO Visual Website Optimizer
+* VWO Visual Website Optimizer  
 https://vwo.com/
 
-## Angular2
+## Angular
 
-* Augular
+* Augular   
 https://angular.io/
-* The Tour of Heroes tutorial takes you through the steps of creating an Angular application in TypeScript.
+* The Tour of Heroes tutorial takes you through the steps of creating an Angular application in TypeScript.  
 https://angular.io/docs/ts/latest/tutorial/
 
 ## CSS
 
-* Download normalize.css 
+* Download normalize.css  
 https://necolas.github.io/normalize.css/
-* About normalize.css 
+* About normalize.css  
 http://nicolasgallagher.com/about-normalize-css/
-* Eric Meyer’s Reset CSS 
+* Eric Meyer’s Reset CSS  
 http://meyerweb.com/eric/tools/css/reset/
-* Popular CSS resets, all in one place 
-http://cssreset.com/
-* Mobile First - An adaptive, future-friendly solution for website design 
-http://zurb.com/word/mobile-first
-* Brad Frost - Mobile First Responsive Web Design 
-http://bradfrost.com/blog/web/mobile-first-responsive-web-design/
-* Box-Sizing: The Secret to Simple CSS Layouts 
-http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts
-* Take Control of the Box Model with box-sizing 
+* Popular CSS resets, all in one place  
+http://cssreset.com/  
+* Mobile First - An adaptive, future-friendly solution for website design  
+http://zurb.com/word/mobile-first  
+* Brad Frost - Mobile First Responsive Web Design  
+http://bradfrost.com/blog/web/mobile-first-responsive-web-design/  
+* Box-Sizing: The Secret to Simple CSS Layouts  
+http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts 
+* Take Control of the Box Model with box-sizing  
 http://blog.teamtreehouse.com/take-control-of-the-box-model-with-box-sizing
 CSS Tricks
 https://css-tricks.com/
@@ -58,27 +58,32 @@ https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 http://www.mailgun.com/
 
 Action Mailer
-* RubyOnRails.Org - Action Mailer Basics 
-http://guides.rubyonrails.org/action_mailer_basics.html
+* RubyOnRails.Org - Action Mailer Basics  
+http://guides.rubyonrails.org/action_mailer_basics.html  
 
 ## Express
 
-* Official ExpressJS Page (check out the "Getting Started" and other Guide there!): http://expressjs.com/
+* Official ExpressJS Page (check out the "Getting Started" and other Guide there!): http://expressjs.com/  
+
+## HTML5
+
+* Initializr : Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate.  
+http://www.initializr.com/
 
 ## JavaScript
 
 * JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate https://javascript30.com/
 
 * JavaScript Is Sexy
-http://javascriptissexy.com/
+http://javascriptissexy.com/  
  * Understand JavaScript Callback Functions and Use Them
- http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+ http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/   
 
 ## Mean Stack
 
-* MEAN Stack RESTful API Tutorial (1/5) - Using MongoDB, Express, Angular JS, and Node JS Together
-https://www.youtube.com/watch?v=kHV7gOHvNdk
-* Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0
+* MEAN Stack RESTful API Tutorial (1/5) - Using MongoDB, Express, Angular JS, and Node JS Together  
+https://www.youtube.com/watch?v=kHV7gOHvNdk  
+* Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0  
 https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 
 ## MongoDB
