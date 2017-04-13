@@ -49,6 +49,8 @@ https://snook.ca/archives/html_and_css/vm-vh-units
 https://tinyurl.com/lenmp42
 * The Stocks
 http://thestocks.im/
+* Icons : The Noun Project
+https://thenounproject.com/
 
 ## Devise
 
