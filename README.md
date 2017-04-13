@@ -43,6 +43,13 @@ https://css-tricks.com/snippets/css/sticky-footer/
 Sizing with vh units
 https://snook.ca/archives/html_and_css/vm-vh-units
 
+## Design
+
+* 24 Sources for Royalty-Free Images
+https://tinyurl.com/lenmp42
+* The Stocks
+http://thestocks.im/
+
 ## Devise
 
 * Devise Official README 
