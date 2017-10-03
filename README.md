@@ -53,6 +53,8 @@ https://tinyurl.com/lenmp42
 http://thestocks.im/
 * Icons : The Noun Project
 https://thenounproject.com/
+* Ion Icons
+http://ionicons.com/
 
 ## Devise
 
