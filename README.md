@@ -20,6 +20,8 @@ https://angular.io/docs/ts/latest/tutorial/
 
 ## CSS
 
+* Animate.css CSS Animations
+https://daneden.github.io/animate.css/
 * Download normalize.css  
 https://necolas.github.io/normalize.css/
 * About normalize.css  
