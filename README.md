@@ -55,6 +55,8 @@ http://thestocks.im/
 https://thenounproject.com/
 * Ion Icons
 http://ionicons.com/
+* Favicon Generator. For Real.
+https://realfavicongenerator.net/
 
 ## Devise
 
