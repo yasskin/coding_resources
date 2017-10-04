@@ -115,12 +115,18 @@ https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 * An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
 * Creating a Basic NodeJS + ExpressJS App from Scratch: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 
-## Rails
+## Optimization Tools
+* CSS Compressor
+https://csscompressor.com/
+* Optimizilla
+http://optimizilla.com/
 
+
+## Rails
 * Michael Hartl's online tutorial (Rails 5): 
 https://www.railstutorial.org/
 
-## Rails Authentication
+### Rails Authentication
 * Michael Hartl's online book: 
 https://www.railstutorial.org/book/modeling_users
 * Ryan Bates' Railscast: 
@@ -178,8 +184,6 @@ https://gomockingbird.com/home
 https://www.mybalsamiq.com/
 * UXPin
 https://www.uxpin.com/
-* Optimizilla
-http://optimizilla.com/
 
 ## Web Development
 * A List Apart
