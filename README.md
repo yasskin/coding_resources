@@ -118,9 +118,10 @@ https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 ## Optimization Tools
 * CSS Compressor
 https://csscompressor.com/
+* Markup Validation Service
+http://validator.w3.org/
 * Optimizilla
 http://optimizilla.com/
-
 
 ## Rails
 * Michael Hartl's online tutorial (Rails 5): 
