@@ -85,12 +85,15 @@ http://www.initializr.com/
 
 ## JavaScript
 
-* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate https://javascript30.com/
+* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate 
+https://javascript30.com/
 
 * JavaScript Is Sexy
 http://javascriptissexy.com/  
- * Understand JavaScript Callback Functions and Use Them
- http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/   
+* Modern JavaScript Cheatsheet
+https://github.com/mbeaudru/modern-js-cheatsheet
+* Understand JavaScript Callback Functions and Use Them
+http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/   
 
 ## Mean Stack
 
