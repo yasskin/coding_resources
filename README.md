@@ -179,7 +179,7 @@ https://www.udemy.com
 http://learnui.design/
 
 ## UX Design
-* Baymard Institute
+* Baymard Institute: An independent web usability research institute
 https://baymard.com/
 * Mockingbird 
 https://gomockingbird.com/home
