@@ -87,6 +87,12 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 * Initializr : Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate.  
 http://www.initializr.com/
 
+## Images
+* Placeimage : generates a random image for your website
+https://placeimg.com/
+* PlaceHolder : generates a random image for your website
+https://placeholder.com/
+
 ## JavaScript
 
 * JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate 
