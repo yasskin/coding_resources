@@ -156,6 +156,13 @@ http://learnsketch.com/
 * Level Up Tutorials of Sketch
 https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
+## Text editors:
+
+* Atom
+https://atom.io/
+* Sublime
+http://www.sublimetext.com/
+
 ## Tools
 
 * Babel to manage the varying stages of browser support for new JS features.
