@@ -20,30 +20,34 @@ https://angular.io/docs/ts/latest/tutorial/
 
 ## CSS
 
-* Animate.css CSS Animations
-https://daneden.github.io/animate.css/
-* Download normalize.css  
-https://necolas.github.io/normalize.css/
 * About normalize.css  
 http://nicolasgallagher.com/about-normalize-css/
-* Eric Meyer’s Reset CSS  
-http://meyerweb.com/eric/tools/css/reset/
-* Popular CSS resets, all in one place  
-http://cssreset.com/  
-* Mobile First - An adaptive, future-friendly solution for website design  
-http://zurb.com/word/mobile-first  
-* Brad Frost - Mobile First Responsive Web Design  
-http://bradfrost.com/blog/web/mobile-first-responsive-web-design/  
+* Animate.css CSS Animations
+https://daneden.github.io/animate.css/
 * Box-Sizing: The Secret to Simple CSS Layouts  
 http://blog.teamtreehouse.com/box-sizing-secret-simple-css-layouts 
+* Brad Frost - Mobile First Responsive Web Design  
+http://bradfrost.com/blog/web/mobile-first-responsive-web-design/  
+* Color Picker
+https://www.webpagefx.com/web-design/color-picker/
+* CSS Tricks
+https://css-tricks.com/
+* CSS Tricks - Sticky Footer
+https://css-tricks.com/snippets/css/sticky-footer/
+* Download normalize.css  
+https://necolas.github.io/normalize.css/
+* Eric Meyer’s Reset CSS  
+http://meyerweb.com/eric/tools/css/reset/
+* Introduction to CSS
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
+* Mobile First - An adaptive, future-friendly solution for website design  
+http://zurb.com/word/mobile-first  
+* Popular CSS resets, all in one place  
+http://cssreset.com/  
+* Sizing with vh units
+https://snook.ca/archives/html_and_css/vm-vh-units
 * Take Control of the Box Model with box-sizing  
 http://blog.teamtreehouse.com/take-control-of-the-box-model-with-box-sizing
-CSS Tricks
-https://css-tricks.com/
-CSS Tricks - Sticky Footer
-https://css-tricks.com/snippets/css/sticky-footer/
-Sizing with vh units
-https://snook.ca/archives/html_and_css/vm-vh-units
 
 ## Design
 
