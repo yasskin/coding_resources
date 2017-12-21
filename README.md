@@ -64,6 +64,14 @@ http://ionicons.com/
 * Favicon Generator. For Real.
 https://realfavicongenerator.net/
 
+## Design Pattern Collections
+* UI Patterns 
+http://ui-patterns.com/
+* Responsive Patterns 
+https://bradfrost.github.io/this-is-responsive/patterns.html
+* Zurb Playground 
+https://zurb.com/playground
+
 ## Devise
 
 * Devise Official README 
