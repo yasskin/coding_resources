@@ -65,10 +65,13 @@ http://ionicons.com/
 https://realfavicongenerator.net/
 
 ## Design Pattern Collections
-* UI Patterns 
-http://ui-patterns.com/
+
+* PatternTap 
+http://patterntap.com/patterntap
 * Responsive Patterns 
 https://bradfrost.github.io/this-is-responsive/patterns.html
+* UI Patterns 
+http://ui-patterns.com/
 * Zurb Playground 
 https://zurb.com/playground
 
