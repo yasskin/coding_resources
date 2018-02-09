@@ -120,6 +120,12 @@ https://github.com/mbeaudru/modern-js-cheatsheet
 * Understand JavaScript Callback Functions and Use Them
 http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/   
 
+## JavaScript libraries
+
+* Parallax
+http://matthew.wagerfield.com/parallax/
+
+
 ## Mean Stack
 
 * MEAN Stack RESTful API Tutorial (1/5) - Using MongoDB, Express, Angular JS, and Node JS Together  
