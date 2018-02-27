@@ -217,7 +217,7 @@ http://thegymnasium.com/
 https://www.launchcode.org/
 * Level Up Tutorials
 https://leveluptutorials.com/
-* Pluralsight | Unlimited Online Developer, IT and Creative Training
+* Pluralsight | Unlimited Online Developer, IT and Creative Training - Good for .Net & C#
 https://www.pluralsight.com/
 * Treehouse
 https://teamtreehouse.com/home
