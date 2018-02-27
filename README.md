@@ -75,6 +75,15 @@ http://ui-patterns.com/
 * Zurb Playground 
 https://zurb.com/playground
 
+## Developer Tools
+
+* Can I Use?
+https://caniuse.com/
+* JS Bin
+https://jsbin.com/
+* jsfiddle
+https://jsfiddle.net/
+
 ## Devise
 
 * Devise Official README 
@@ -119,12 +128,15 @@ http://javascriptissexy.com/
 https://github.com/mbeaudru/modern-js-cheatsheet
 * Understand JavaScript Callback Functions and Use Them
 http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/   
+JavaScript Lint
+http://javascriptlint.com/
+* JavaScript Tools Bundle
+http://github.com/subtleGradient
 
 ## JavaScript libraries
 
 * Parallax
 http://matthew.wagerfield.com/parallax/
-
 
 ## Mean Stack
 
@@ -179,6 +191,8 @@ https://leveluptutorials.com/tutorials/sketch-3-tutorials
 https://atom.io/
 * Sublime
 http://www.sublimetext.com/
+MacVim
+https://github.com/macvim-dev
 
 ## Tools
 
