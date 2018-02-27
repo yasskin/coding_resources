@@ -191,7 +191,7 @@ https://leveluptutorials.com/tutorials/sketch-3-tutorials
 https://atom.io/
 * Sublime
 http://www.sublimetext.com/
-MacVim
+* MacVim
 https://github.com/macvim-dev
 
 ## Tools
