@@ -229,6 +229,8 @@ https://teamtreehouse.com/home
 https://www.udacity.com/
 * Udemy
 https://www.udemy.com
+* Watch and Code
+https://watchandcode.com/
 * Xamarin University
 https://university.xamarin.com/
 
