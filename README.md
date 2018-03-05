@@ -223,6 +223,8 @@ https://mva.microsoft.com/
 https://www.pluralsight.com/
 * Treehouse
 https://teamtreehouse.com/home
+* Udacity
+https://www.udacity.com/
 * Udemy
 https://www.udemy.com
 * Xamarin University
