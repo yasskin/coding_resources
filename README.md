@@ -215,6 +215,8 @@ https://www.freecodecamp.com/
 http://thegymnasium.com/
 * Launch Code
 https://www.launchcode.org/
+* Laracasts
+https://laracasts.com/
 * Level Up Tutorials
 https://leveluptutorials.com/
 * Microsoft Virtual Academy
