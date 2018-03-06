@@ -225,6 +225,8 @@ https://leveluptutorials.com/
 https://mva.microsoft.com/
 * Pluralsight | Unlimited Online Developer, IT and Creative Training - Good for .Net & C#
 https://www.pluralsight.com/
+* Sitepoint
+https://www.sitepoint.com
 * Treehouse
 https://teamtreehouse.com/home
 * Udacity
