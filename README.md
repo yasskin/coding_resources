@@ -135,8 +135,14 @@ http://github.com/subtleGradient
 
 ## JavaScript libraries
 
+* Dojo Toolkit
+http://dojotoolkit.org/
+*MooTools
+https://mootools.net/
 * Parallax
 http://matthew.wagerfield.com/parallax/
+* Underscore
+http://underscorejs.org/
 
 ## Mean Stack
 
