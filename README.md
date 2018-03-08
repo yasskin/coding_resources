@@ -283,3 +283,9 @@ https://alistapart.com/
 http://caniuse.com/
 * Smashing Magazine
 https://www.smashingmagazine.com/
+
+
+## Articles about Learning How To Code
+
+* My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)
+https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503
