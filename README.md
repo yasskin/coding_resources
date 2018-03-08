@@ -106,6 +106,11 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 
 * Official ExpressJS Page (check out the "Getting Started" and other Guide there!): http://expressjs.com/  
 
+## Fonts
+
+* Font Awesome
+https://fontawesome.com/
+
 ## HTML5
 
 * Initializr : Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate.  
