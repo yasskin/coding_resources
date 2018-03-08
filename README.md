@@ -1,3 +1,5 @@
+
+
 # coding_resources
 
 Coding Resources
@@ -28,6 +30,9 @@ https://getbootstrap.com
 ### Bootstrap Resources 
 * Bootswatch
 https://bootswatch.com/
+* Bootstrapious
+https://bootstrapious.com/
+
 
 ## CSS
 
@@ -159,6 +164,11 @@ https://mootools.net/
 http://matthew.wagerfield.com/parallax/
 * Underscore
 http://underscorejs.org/
+
+## Kendo UI
+
+* Kendo UI (tutorials)
+https://docs.telerik.com/kendo-ui/introduction
 
 ## Mean Stack
 
