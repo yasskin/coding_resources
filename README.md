@@ -270,6 +270,8 @@ https://teamtreehouse.com/home
 https://www.udacity.com/
 * Udemy
 https://www.udemy.com
+* W3Schools
+https://www.w3schools.com/
 * Watch and Code
 https://watchandcode.com/
 * Xamarin University
