@@ -267,6 +267,8 @@ https://leveluptutorials.com/
 https://mva.microsoft.com/
 * Pluralsight | Unlimited Online Developer, IT and Creative Training - Good for .Net & C#
 https://www.pluralsight.com/
+* Rithm School Free Courses
+https://www.rithmschool.com/courses
 * Sitepoint
 https://www.sitepoint.com
 * Treehouse
