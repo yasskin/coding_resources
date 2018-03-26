@@ -197,6 +197,11 @@ http://validator.w3.org/
 * Optimizilla
 http://optimizilla.com/
 
+## Presentations
+
+* Slides (Make developer friendly online slide presentations)
+https://slides.com/
+
 ## Rails
 * Michael Hartl's online tutorial (Rails 5): 
 https://www.railstutorial.org/
