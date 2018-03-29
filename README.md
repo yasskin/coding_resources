@@ -257,6 +257,8 @@ Google : Introduction to Web Accessibility (free)
 https://webaccessibility.withgoogle.com/course
 * The Gymnasium: Gymnasium offers free online courses designed to teach creative professionals in-demand skills.
 http://thegymnasium.com/
+* JavaScript.Info : The Modern JavaScript Tutorial
+https://javascript.info/
 * Launch Code
 https://www.launchcode.org/
 * Laracasts
