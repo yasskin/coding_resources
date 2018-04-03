@@ -132,6 +132,11 @@ https://fontawesome.com/
 * Initializr : Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate.  
 http://www.initializr.com/
 
+## Icons
+
+* Create your own icons
+https://glyphsapp.com/
+
 ## Images
 * Placeimage : generates a random image for your website
 https://placeimg.com/
@@ -222,6 +227,11 @@ https://sketchapp.com/learn/
 http://learnsketch.com/
 * Level Up Tutorials of Sketch
 https://leveluptutorials.com/tutorials/sketch-3-tutorials
+
+## Style Guide
+
+* Google Code Style Guide
+https://github.com/google/styleguide
 
 ## Text editors:
 
