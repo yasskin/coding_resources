@@ -171,6 +171,10 @@ http://matthew.wagerfield.com/parallax/
 * Underscore
 http://underscorejs.org/
 
+## jQuery
+* jQuery Script
+https://www.jqueryscript.net/
+
 ## Kendo UI
 
 * Kendo UI (tutorials)
