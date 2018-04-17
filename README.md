@@ -138,9 +138,14 @@ http://www.initializr.com/
 https://glyphsapp.com/
 
 ## Images
-* Placeimage : generates a random image for your website
+
+* Lorem Pixel : placeholder images for every case
+http://lorempixel.com/
+* Picsum Photos : generates random images for a websites
+https://picsum.photos/
+* Placeimage : generates a random image for a website
 https://placeimg.com/
-* PlaceHolder : generates a random image for your website
+* PlaceHolder : generates a random image for a website
 https://placeholder.com/
 
 ## JavaScript
