@@ -290,6 +290,8 @@ https://mva.microsoft.com/
 https://www.pluralsight.com/
 * Rithm School Free Courses
 https://www.rithmschool.com/courses
+* Scrimba
+https://scrimba.com/
 * Sitepoint
 https://www.sitepoint.com
 * Treehouse
