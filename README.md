@@ -136,7 +136,8 @@ http://www.initializr.com/
 
 * Create your own icons
 https://glyphsapp.com/
-
+* Open Iconic: An Open Source Icon Set
+https://useiconic.com/open
 ## Images
 
 * Lorem Pixel : placeholder images for every case
