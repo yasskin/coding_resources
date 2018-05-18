@@ -1,6 +1,6 @@
-
-
 # coding_resources
+
+A curated list of coding resources that I found helpful for improving my programing skills. Feel free to contribute a pull request if there is something you would like to see added to this list.
 
 Coding Resources
 
@@ -180,6 +180,11 @@ http://underscorejs.org/
 ## jQuery
 * jQuery Script
 https://www.jqueryscript.net/
+
+## JSON
+
+A simple JSON validator and storage too
+http://myjson.com/
 
 ## Kendo UI
 
