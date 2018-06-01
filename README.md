@@ -33,6 +33,7 @@ https://bootswatch.com/
 * Bootstrapious
 https://bootstrapious.com/
 
+## C#
 
 ## CSS
 
@@ -148,6 +149,10 @@ https://picsum.photos/
 https://placeimg.com/
 * PlaceHolder : generates a random image for a website
 https://placeholder.com/
+
+## Java
+Java Ranch: A Friendly Place to Learn Java
+https://javaranch.com/
 
 ## JavaScript
 
