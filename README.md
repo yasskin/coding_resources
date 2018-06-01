@@ -35,6 +35,9 @@ https://bootstrapious.com/
 
 ## C#
 
+* C# Programming Guide
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+
 ## CSS
 
 * About normalize.css  
@@ -151,7 +154,8 @@ https://placeimg.com/
 https://placeholder.com/
 
 ## Java
-Java Ranch: A Friendly Place to Learn Java
+
+* Java Ranch: A Friendly Place to Learn Java
 https://javaranch.com/
 
 ## JavaScript
@@ -183,12 +187,13 @@ http://matthew.wagerfield.com/parallax/
 http://underscorejs.org/
 
 ## jQuery
+
 * jQuery Script
 https://www.jqueryscript.net/
 
 ## JSON
 
-A simple JSON validator and storage too
+* MyJSON : A simple JSON validator and storage too
 http://myjson.com/
 
 ## Kendo UI
@@ -210,14 +215,16 @@ https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 * Mongoose Docs: http://mongoosejs.com/docs/guide.html
 
 ## Node
-* Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
-* An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
-* Creating a Basic NodeJS + ExpressJS App from Scratch: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
+
+* NodeJS : Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
+* Modulus: An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+* ShapeShed.com : Creating a Basic NodeJS + ExpressJS App from Scratch: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 
 ## Optimization Tools
+
 * CSS Compressor
 https://csscompressor.com/
-* Markup Validation Service
+* W3 Validator: Markup Validation Service
 http://validator.w3.org/
 * Optimizilla
 http://optimizilla.com/
@@ -232,6 +239,7 @@ https://slides.com/
 https://www.railstutorial.org/
 
 ### Rails Authentication
+
 * Michael Hartl's online book: 
 https://www.railstutorial.org/book/modeling_users
 * Ryan Bates' Railscast: 
@@ -319,10 +327,12 @@ https://watchandcode.com/
 https://university.xamarin.com/
 
 ## UI Design
+
 * Learn UI Design
 http://learnui.design/
 
 ## UX Design
+
 * Baymard Institute: An independent web usability research institute
 https://baymard.com/
 * Mockingbird 
@@ -333,6 +343,7 @@ https://www.mybalsamiq.com/
 https://www.uxpin.com/
 
 ## Web Development
+
 * A List Apart
 https://alistapart.com/
 * caniuse.com: Browser support tables for modern web technologies
@@ -345,16 +356,18 @@ https://www.smashingmagazine.com/
 
 * Balsamiq
 https://balsamiq.com/
+* InVision
+https://www.invisionapp.com/
 * Pencil Project
 http://pencil.evolus.vn/
 * moqups.com
 https://moqups.com/
+* UXPin
+https://www.uxpin.com/
 * wireframe.cc
 https://wireframe.cc/
 
 
-
 ## Articles about Learning How To Code
-
 * My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)
 https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503
