@@ -342,6 +342,11 @@ https://www.mybalsamiq.com/
 * UXPin
 https://www.uxpin.com/
 
+## Visual Studio
+
+* Visual Studio Documentation
+https://docs.microsoft.com/en-us/visualstudio/#pivot=features&panel=features1
+
 ## Web Development
 
 * A List Apart
