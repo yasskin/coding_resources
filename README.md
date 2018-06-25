@@ -37,6 +37,8 @@ https://bootstrapious.com/
 
 * C# Programming Guide
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
+* C# C# Apps Certification and Training: MCSD Jump Start Training
+https://mva.microsoft.com/colleges/c_cert
 
 ## CSS
 
