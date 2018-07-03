@@ -40,6 +40,11 @@ https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 * C# C# Apps Certification and Training: MCSD Jump Start Training
 https://mva.microsoft.com/colleges/c_cert
 
+## Code Interviews
+
+* An article about Code Interviews that lists several resources
+https://blog.usejournal.com/i-failed-my-effing-coding-interview-ab720c339c8a
+
 ## CSS
 
 * About normalize.css  
@@ -144,6 +149,7 @@ http://www.initializr.com/
 https://glyphsapp.com/
 * Open Iconic: An Open Source Icon Set
 https://useiconic.com/open
+
 ## Images
 
 * Lorem Pixel : placeholder images for every case
