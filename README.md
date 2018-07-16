@@ -157,6 +157,8 @@ https://useiconic.com/open
 
 ## Images
 
+* ImageOptim: Image Optimizer for Mac
+https://imageoptim.com/mac
 * Lorem Pixel : placeholder images for every case
 http://lorempixel.com/
 * Picsum Photos : generates random images for a websites
