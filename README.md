@@ -225,9 +225,14 @@ https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 
 ## MongoDB
 
-* Official MongoDB Page: https://www.mongodb.com/
-* Setup Instructions on Official Page (choose your OS): https://docs.mongodb.com/manual/administration/install-community/
-* Mongoose Docs: http://mongoosejs.com/docs/guide.html
+* MongoDB University 
+https://university.mongodb.com/
+* Mongoose Docs: 
+http://mongoosejs.com/docs/guide.html
+* Official MongoDB Page: 
+https://www.mongodb.com/
+* Setup Instructions on Official Page (choose your OS): 
+https://docs.mongodb.com/manual/administration/install-community/
 
 ## .Net
 
