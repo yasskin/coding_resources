@@ -286,6 +286,12 @@ http://learnsketch.com/
 * Level Up Tutorials of Sketch
 https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
+## SQL 
+
+### SSMS
+* Microsoft Tutorials for SQL Server Management Studio (SSMS)
+https://docs.microsoft.com/en-us/sql/ssms/tutorials/tutorial-sql-server-management-studio?view=sql-server-2017
+
 ## Style Guide
 
 * Google Code Style Guide
