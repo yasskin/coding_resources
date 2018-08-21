@@ -351,6 +351,8 @@ https://scrimba.com/
 https://www.sitepoint.com
 * Treehouse
 https://teamtreehouse.com/home
+* tutorialspoint : simply easy learning
+https://www.tutorialspoint.com/
 * Udacity
 https://www.udacity.com/
 * Udemy
