@@ -366,8 +366,13 @@ https://university.xamarin.com/
 
 ## UI Design
 
+* PatternTap
+http://patterntap.com/
 * Learn UI Design
 http://learnui.design/
+* UI Patterns
+http://ui-patterns.com/
+
 
 ## UX Design
 
