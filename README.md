@@ -277,6 +277,17 @@ http://railscasts.com/episodes/250-authentication-from-scratch
 * Codecademy's Ruby on Rails: Authentication and Authorization: 
 http://www.codecademy.com/en/learn/rails-auth
 
+## React
+
+## React Site Generator
+* Gatsby : Gatsby is a blazing fast modern site generator for React.
+https://www.gatsbyjs.org/
+
+## React UI Libraries
+* Storybook : UI Dev Environment
+https://storybook.js.org/
+
+
 ## Sketch
 
 * Sketch tutorials
