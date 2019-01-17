@@ -148,6 +148,10 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 * Font Awesome
 https://fontawesome.com/
 
+## GraphQL
+A Beginner's Guide to GraphQL
+https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec
+
 ## HTML5
 
 * Initializr : Initializr is an HTML5 templates generator to help you getting started with a new project based on HTML5 Boilerplate.  
