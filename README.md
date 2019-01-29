@@ -161,8 +161,11 @@ http://www.initializr.com/
 
 * Create your own icons
 https://glyphsapp.com/
+* The Noun Project : Icons for Everything
+https://thenounproject.com/
 * Open Iconic: An Open Source Icon Set
 https://useiconic.com/open
+
 
 ## Images
 
@@ -248,7 +251,7 @@ https://docs.mongodb.com/manual/administration/install-community/
 .Net Documentation
 https://docs.microsoft.com/en-us/dotnet/
 
-## Node
+## NodeJS
 
 * NodeJS : Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
 * Modulus: An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
@@ -387,10 +390,14 @@ https://university.xamarin.com/
 
 ## UI Design
 
+* Human Interface Guidelines: For Apps that Integrate with Apply
+https://developer.apple.com/design/human-interface-guidelines/
 * PatternTap
 http://patterntap.com/
 * Learn UI Design
 http://learnui.design/
+* Touch Gesture Icons Sketch Resource
+https://www.sketchappsources.com/free-source/476-touch-gesture-icons.html
 * UI Patterns
 http://ui-patterns.com/
 
