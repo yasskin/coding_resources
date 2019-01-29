@@ -400,12 +400,15 @@ http://learnui.design/
 https://www.sketchappsources.com/free-source/476-touch-gesture-icons.html
 * UI Patterns
 http://ui-patterns.com/
-
+* UI Stencils
+https://www.uistencils.com/blogs/news/ui-stencils-drafting-templates
 
 ## UX Design
 
 * Baymard Institute: An independent web usability research institute
 https://baymard.com/
+* inVision : Collaboration Tool
+https://www.invisionapp.com/
 * Mockingbird 
 https://gomockingbird.com/home
 * myBalsamiq 
