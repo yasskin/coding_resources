@@ -149,8 +149,10 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 https://fontawesome.com/
 
 ## GraphQL
-A Beginner's Guide to GraphQL
+* FreeCodeCamp : A Beginner's Guide to GraphQL
 https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec
+* GraphQL Tutorial
+https://graphql.org/graphql-js/
 
 ## HTML5
 
