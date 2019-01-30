@@ -212,6 +212,9 @@ https://mootools.net/
 http://matthew.wagerfield.com/parallax/
 * Underscore
 http://underscorejs.org/
+* Jest : JavaScript Testing Framework with a focus on simplicity
+https://jestjs.io/en/
+
 
 ## jQuery
 
