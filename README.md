@@ -148,6 +148,10 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 * Font Awesome
 https://fontawesome.com/
 
+## Git
+* GitHub’s Git Handbook.
+https://guides.github.com/introduction/git-handbook/
+
 ## GraphQL
 * FreeCodeCamp : A Beginner's Guide to GraphQL
 https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec
