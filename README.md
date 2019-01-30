@@ -291,7 +291,7 @@ http://www.codecademy.com/en/learn/rails-auth
 https://v2.grommet.io/
 
 ## React Site Generator
-* Gatsby : Gatsby is a blazing fast modern site generator for React.
+* Gatsby : Gatsby is a PWA (Progressive Web App) site generator for React.
 https://www.gatsbyjs.org/
 
 ## React UI Libraries
