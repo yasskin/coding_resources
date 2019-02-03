@@ -407,6 +407,8 @@ http://patterntap.com/
 http://learnui.design/
 * Touch Gesture Icons Sketch Resource
 https://www.sketchappsources.com/free-source/476-touch-gesture-icons.html
+* UI Guidelines
+https://balsamiq.com/learn/resources/reference/ui-guidelines/
 * UI Patterns
 http://ui-patterns.com/
 * UI Stencils
@@ -416,14 +418,10 @@ https://www.uistencils.com/blogs/news/ui-stencils-drafting-templates
 
 * Baymard Institute: An independent web usability research institute
 https://baymard.com/
-* inVision : Collaboration Tool
+
+## UX Design Tools
+* InVision
 https://www.invisionapp.com/
-* Mockingbird 
-https://gomockingbird.com/home
-* myBalsamiq 
-https://www.mybalsamiq.com/
-* UXPin
-https://www.uxpin.com/
 
 ## Visual Studio
 
@@ -439,21 +437,21 @@ http://caniuse.com/
 * Smashing Magazine
 https://www.smashingmagazine.com/
 
-
 ## Wireframe Tools
 
 * Balsamiq
 https://balsamiq.com/
-* InVision
-https://www.invisionapp.com/
-* Pencil Project
-http://pencil.evolus.vn/
+* Mockingbird 
+https://gomockingbird.com/home
 * moqups.com
 https://moqups.com/
+* Pencil Project
+http://pencil.evolus.vn/
 * UXPin
 https://www.uxpin.com/
 * wireframe.cc
 https://wireframe.cc/
+
 
 
 ## Articles about Learning How To Code
