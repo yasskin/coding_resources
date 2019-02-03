@@ -109,6 +109,8 @@ http://patterntap.com/patterntap
 https://bradfrost.github.io/this-is-responsive/patterns.html
 * UI Patterns 
 http://ui-patterns.com/
+* W3C Design Patterns and Widgets
+https://www.w3.org/TR/wai-aria-practices/#aria_ex
 * Zurb Playground 
 https://zurb.com/playground
 
