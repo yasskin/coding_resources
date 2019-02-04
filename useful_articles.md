@@ -1,5 +1,12 @@
 # Useful Articles on Web Development and Design
 
+## CSS-in-JS
+
+* REACT : CSS-in-JS by  Christopher “vjeux” Chedeau
+https://speakerdeck.com/vjeux/react-css-in-js
+* A Unified Styling Language by Mark Dalgleish
+https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
+
 ## Web Forms
 
 * Smashing Magazine : Designing Efficient Web Forms: On Structure, Inputs, Labels And Actions
