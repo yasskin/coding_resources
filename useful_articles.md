@@ -7,6 +7,10 @@ https://speakerdeck.com/vjeux/react-css-in-js
 * A Unified Styling Language by Mark Dalgleish
 https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660
 
+## Flexbox
+* Solved by Flexbox
+https://philipwalton.github.io/solved-by-flexbox/
+
 ## Web Forms
 
 * Smashing Magazine : Designing Efficient Web Forms: On Structure, Inputs, Labels And Actions
