@@ -159,6 +159,8 @@ https://guides.github.com/introduction/git-handbook/
 https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec
 * GraphQL Tutorial
 https://graphql.org/graphql-js/
+* How to GraphQL : The Fullstack Tutorial for GraphQL
+https://www.howtographql.com/
 
 ## HTML5
 
