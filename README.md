@@ -266,9 +266,16 @@ https://docs.microsoft.com/en-us/dotnet/
 
 ## NodeJS
 
-* NodeJS : Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
-* Modulus: An Absolute Beginner Guide to NodeJS: http://blog.modulus.io/absolute-beginners-guide-to-nodejs
-* ShapeShed.com : Creating a Basic NodeJS + ExpressJS App from Scratch: https://shapeshed.com/creating-a-basic-site-with-node-and-express/
+* NodeJS: 
+Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
+
+## NodeJS Tutorials
+* Node.js Crash Course:  
+https://www.youtube.com/watch?v=fBNz5xF-Kx4
+* Moduus: An Absolute Beginner Guide to NodeJS: 
+http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+* ShapeShed.com : Creating a Basic NodeJS + ExpressJS App from Scratch: 
+https://shapeshed.com/creating-a-basic-site-with-node-and-express/
 
 ## Optimization Tools
 
