@@ -197,10 +197,6 @@ https://javaranch.com/
 
 ## JavaScript
 
-* Eloquent JavaScript (free eBook)
-http://eloquentjavascript.net/
-* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate 
-https://javascript30.com/
 * JavaScript Is Sexy
 http://javascriptissexy.com/  
 * Modern JavaScript Cheatsheet
@@ -212,11 +208,11 @@ http://javascriptlint.com/
 * JavaScript Tools Bundle
 http://github.com/subtleGradient
 
-## JavaScript libraries
+## JavaScript Libraries
 
 * Dojo Toolkit
 http://dojotoolkit.org/
-*MooTools
+* MooTools
 https://mootools.net/
 * Parallax
 http://matthew.wagerfield.com/parallax/
@@ -225,6 +221,13 @@ http://underscorejs.org/
 * Jest : JavaScript Testing Framework with a focus on simplicity
 https://jestjs.io/en/
 
+### JavaScript Tutorials
+* JavaScript.Info : The Modern Javascript Tutorial
+https://javascript.info/
+* Eloquent JavaScript (free eBook)
+http://eloquentjavascript.net/
+* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate 
+https://javascript30.com/
 
 ## jQuery
 
