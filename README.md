@@ -199,6 +199,9 @@ https://javaranch.com/
 
 * JavaScript Is Sexy
 http://javascriptissexy.com/  
+* Eloquent JavaScript
+http://eloquentjavascript.net/
+http://eloquentjavascript.net/code
 * Modern JavaScript Cheatsheet
 https://github.com/mbeaudru/modern-js-cheatsheet
 * Understand JavaScript Callback Functions and Use Them
