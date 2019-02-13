@@ -310,6 +310,11 @@ http://railscasts.com/episodes/250-authentication-from-scratch
 * Codecademy's Ruby on Rails: Authentication and Authorization: 
 http://www.codecademy.com/en/learn/rails-auth
 
+### Rails and React
+
+* James Hibbard : How to Create a Simple CRUD App with Rails and React
+https://hibbard.eu/rails-react-crud-app/
+
 ## React
 
 * React integration for ASP.Net
