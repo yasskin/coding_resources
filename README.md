@@ -18,7 +18,7 @@ https://vwo.com/
 * Augular   
 https://angular.io/
 
-### Angular Resources 
+### Angular Tutorial 
 * The Tour of Heroes tutorial takes you through the steps of creating an Angular application in TypeScript.  
 https://angular.io/docs/ts/latest/tutorial/
 
@@ -143,7 +143,8 @@ http://guides.rubyonrails.org/action_mailer_basics.html
 
 ## Express
 
-* Official ExpressJS Page (check out the "Getting Started" and other Guide there!): http://expressjs.com/  
+* Official ExpressJS Page (check out the "Getting Started" and other Guide there!): 
+http://expressjs.com/  
 
 ## Fonts
 
@@ -175,7 +176,6 @@ https://glyphsapp.com/
 https://thenounproject.com/
 * Open Iconic: An Open Source Icon Set
 https://useiconic.com/open
-
 
 ## Images
 
@@ -320,15 +320,15 @@ https://hibbard.eu/rails-react-crud-app/
 * React integration for ASP.Net
 https://reactjs.net/
 
-## React Frameworks
+### React Frameworks
 * Grommet is a react-based framework
 https://v2.grommet.io/
 
-## React Site Generator
+### React Site Generator
 * Gatsby : Gatsby is a PWA (Progressive Web App) site generator for React.
 https://www.gatsbyjs.org/
 
-## React UI Libraries
+### React UI Libraries
 * Storybook : UI Dev Environment
 https://storybook.js.org/
 
@@ -344,7 +344,7 @@ https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
 ## SQL 
 
-### SSMS
+### SQL : SSMS
 * Microsoft Tutorials for SQL Server Management Studio (SSMS)
 https://docs.microsoft.com/en-us/sql/ssms/tutorials/tutorial-sql-server-management-studio?view=sql-server-2017
 
@@ -481,7 +481,3 @@ http://pencil.evolus.vn/
 https://www.uxpin.com/
 * wireframe.cc
 https://wireframe.cc/
-
-## Articles about Learning How To Code
-* My journey to becoming a web developer from scratch without a CS degree (and what I learned from it)
-https://medium.freecodecamp.org/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503
