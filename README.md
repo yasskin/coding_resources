@@ -349,6 +349,10 @@ https://storybook.js.org/
 https://reactforbeginners.com/
 * Advanced React & GraphQL : A Training Course from Wes Bos
 https://advancedreact.com/
+* Free React Course
+https://daveceddia.com/
+* React / Redux Tutorial for 2019
+https://daveceddia.com/redux-tutorial/
 
 ## Rithm School : Free Courses
 https://www.rithmschool.com/courses#libraries
