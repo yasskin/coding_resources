@@ -240,8 +240,11 @@ https://jestjs.io/en/
 https://javascript.info/
 * Eloquent JavaScript (free eBook)
 http://eloquentjavascript.net/
-* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials. No Frameworks × No Compilers × No Libraries × No Boilerplate 
+* JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials.
 https://javascript30.com/
+* Just Enough Functional Programming in JavaScript
+https://egghead.io/courses/just-enough-functional-programming-in-javascript
+
 
 ## jQuery
 
