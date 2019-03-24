@@ -379,6 +379,8 @@ https://docs.microsoft.com/en-us/sql/ssms/tutorials/tutorial-sql-server-manageme
 
 * Google Code Style Guide
 https://github.com/google/styleguide
+* Website Style Guide Resources
+http://styleguides.io/
 
 ## Text editors:
 
