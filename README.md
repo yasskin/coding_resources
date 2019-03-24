@@ -496,6 +496,10 @@ http://caniuse.com/
 * Smashing Magazine
 https://www.smashingmagazine.com/
 
+## Webpack
+* Learn Webpack
+https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8
+
 ## Wireframe Tools
 
 * Balsamiq
