@@ -221,6 +221,8 @@ JavaScript Lint
 http://javascriptlint.com/
 * JavaScript Tools Bundle
 http://github.com/subtleGradient
+* WHat you should know about JavaScript arrays
+https://thomlom.dev/what-you-should-know-about-js-arrays/
 
 ## JavaScript Libraries
 
