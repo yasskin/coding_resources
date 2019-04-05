@@ -253,6 +253,11 @@ https://egghead.io/courses/just-enough-functional-programming-in-javascript
 * jQuery Script
 https://www.jqueryscript.net/
 
+* You Don't Need jQuery
+https://github.com/nefe/You-Dont-Need-jQuery#readme
+* You Might Not Need jQuery
+http://youmightnotneedjquery.com/
+
 ## JSON
 
 * MyJSON : A simple JSON validator and storage too
