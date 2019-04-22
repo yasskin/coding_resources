@@ -364,6 +364,10 @@ https://daveceddia.com/
 * React / Redux Tutorial for 2019
 https://daveceddia.com/redux-tutorial/
 
+## Redux
+Redux : Getting started with Redux
+https://egghead.io/courses/getting-started-with-redux
+
 ## Rithm School : Free Courses
 https://www.rithmschool.com/courses#libraries
 
