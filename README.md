@@ -166,6 +166,9 @@ https://fontawesome.com/
 * GitHub’s Git Handbook.
 https://guides.github.com/introduction/git-handbook/
 
+* Create useful .gitignore files for your project
+http://gitignore.io/
+
 ## GraphQL
 * FreeCodeCamp : A Beginner's Guide to GraphQL
 https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec
