@@ -316,6 +316,15 @@ http://validator.w3.org/
 * Optimizilla
 http://optimizilla.com/
 
+## PostgreSQL
+
+* pgAdmin: Open Source administration and development platform for PostgreSQL, an Open Source database.
+https://www.pgadmin.org/
+* Postgres.app: a full-featured PostgreSQL installation packaged as a standard Mac app. 
+https://postgresapp.com/
+* PostgreSQL: Open Source Relational Database
+https://www.postgresql.org/
+
 ## Presentations
 
 * Slides (Make developer friendly online slide presentations)
