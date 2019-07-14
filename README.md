@@ -136,6 +136,10 @@ https://github.com/plataformatec/devise/wiki/How-Tos
 * Launch School tutorial on Devise 
 https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication
 
+## Django
+* Django is a high-level Python Web framework 
+https://www.djangoproject.com/
+
 ## Email
 
 * MailGun for deploying 
