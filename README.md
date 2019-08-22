@@ -245,15 +245,17 @@ http://underscorejs.org/
 https://jestjs.io/en/
 
 ### JavaScript Tutorials
-* JavaScript.Info : The Modern Javascript Tutorial
-https://javascript.info/
+
 * Eloquent JavaScript (free eBook)
 http://eloquentjavascript.net/
 * JavaScript30 :30 Day Vanilla JS Coding Challenge. Build 30 things in 30 days with 30 tutorials.
 https://javascript30.com/
+* JavaScript.Info : The Modern Javascript Tutorial
+https://javascript.info/
 * Just Enough Functional Programming in JavaScript
 https://egghead.io/courses/just-enough-functional-programming-in-javascript
-
+* Node School Electives: JavaScript
+https://nodeschool.io/#workshoppers
 
 ## jQuery
 
@@ -304,13 +306,15 @@ https://docs.microsoft.com/en-us/dotnet/
 Official NodeJS Page (also dive into the Docs there!): https://nodejs.org/en/
 
 ## NodeJS Tutorials
-* Node.js Crash Course:  
-https://www.youtube.com/watch?v=fBNz5xF-Kx4
 * Moduus: An Absolute Beginner Guide to NodeJS: 
 http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+* Node School
+https://nodeschool.io/
+* Node.js Crash Course:  
+https://www.youtube.com/watch?v=fBNz5xF-Kx4
+
 * ShapeShed.com : Creating a Basic NodeJS + ExpressJS App from Scratch: 
 https://shapeshed.com/creating-a-basic-site-with-node-and-express/
-
 ## Optimization Tools
 
 * CSS Compressor
