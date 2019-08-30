@@ -515,6 +515,10 @@ https://baymard.com/
 * InVision
 https://www.invisionapp.com/
 
+## Vue.js
+* Awesome Vue.js Resources
+https://github.com/vuejs/awesome-vue#table
+
 ## Visual Studio
 
 * Visual Studio Documentation
