@@ -394,8 +394,14 @@ https://daveceddia.com/
 https://daveceddia.com/redux-tutorial/
 
 ## Redux
+Redux
+https://redux.js.org/
+Redux: rior Art
+https://redux.js.org/introduction/prior-art
 Redux : Getting started with Redux
 https://egghead.io/courses/getting-started-with-redux
+You Might Not Need Redux
+https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367#.1trmk9tu5
 
 ## Rithm School : Free Courses
 https://www.rithmschool.com/courses#libraries
