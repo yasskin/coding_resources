@@ -367,18 +367,28 @@ https://hibbard.eu/rails-react-crud-app/
 
 ## React
 
-* React integration for ASP.Net
+
+* React 360: Create 360 and VR experiences using React
+https://facebook.github.io/react-360/
+* React Desktop: bring a native desktop experience to the web for macOS and Windows 10
+https://reactdesktop.js.org/
+* ReactJS.Net integration for ASP.Net
 https://reactjs.net/
 
-### React Frameworks
-* Grommet is a react-based framework
+### React UI Libraries
+
+* Blueprint - A React-based UI toolkit for the web
+https://blueprintjs.com/
+* Grommet is a mobile-first react-based framework
 https://v2.grommet.io/
+* Material UI
+https://material-ui.com/
 
 ### React Site Generator
 * Gatsby : Gatsby is a PWA (Progressive Web App) site generator for React.
 https://www.gatsbyjs.org/
 
-### React UI Libraries
+### React UI Tool
 * Storybook : UI Dev Environment
 https://storybook.js.org/
 
