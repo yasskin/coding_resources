@@ -222,6 +222,9 @@ https://javaranch.com/
 
 ## JavaScript
 
+* JS Promises
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
 * JavaScript Is Sexy
 http://javascriptissexy.com/  
 * Eloquent JavaScript
@@ -278,6 +281,8 @@ http://youmightnotneedjquery.com/
 
 ## JSON
 
+* JSON Placeholder: Fake Online REST API for Testing and Prototyping
+https://jsonplaceholder.typicode.com/
 * MyJSON : A simple JSON validator and storage too
 http://myjson.com/
 
