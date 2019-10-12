@@ -348,6 +348,9 @@ http://validator.w3.org/
 * Optimizilla
 http://optimizilla.com/
 
+## Phaser.JS
+* Game Development with Phaser.JS: Learn about the HTML5 game development framework that makes writing browser-based games a breeze.
+
 ## PostgreSQL
 
 * pgAdmin: Open Source administration and development platform for PostgreSQL, an Open Source database.
