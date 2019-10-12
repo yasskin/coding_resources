@@ -49,6 +49,8 @@ https://bootstrapious.com/
 https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/
 * C# C# Apps Certification and Training: MCSD Jump Start Training
 https://mva.microsoft.com/colleges/c_cert
+* Learn C#: Learn Microsoft's popular programming language C#, used to make websites, mobile apps, video games, VR, and more!
+https://www.codecademy.com/learn/learn-c-sharp
 
 ## Code Interviews
 
@@ -380,7 +382,8 @@ https://hibbard.eu/rails-react-crud-app/
 
 ## React
 
-
+Learn ReactJS: Part I: Build powerful interactive applications with React, a popular JavaScript library.
+https://www.codecademy.com/learn/react-101
 * React 360: Create 360 and VR experiences using React
 https://facebook.github.io/react-360/
 * React Desktop: bring a native desktop experience to the web for macOS and Windows 10
@@ -439,6 +442,9 @@ http://learnsketch.com/
 https://leveluptutorials.com/tutorials/sketch-3-tutorials
 
 ## SQL 
+
+* Learn SQL: Learn to communicate with databases using SQL, the standard data management language.
+https://www.codecademy.com/learn/learn-sql
 
 ### SQL : SSMS
 * Microsoft Tutorials for SQL Server Management Studio (SSMS)
