@@ -529,6 +529,13 @@ https://watchandcode.com/
 * Xamarin University
 https://university.xamarin.com/
 
+## TypeScript
+
+* Execute Program
+https://www.executeprogram.com/course/typescript
+* TypeScript
+http://www.typescriptlang.org/
+
 ## UI Design
 
 * Human Interface Guidelines: For Apps that Integrate with Apply
