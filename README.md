@@ -308,6 +308,11 @@ https://www.youtube.com/watch?v=kHV7gOHvNdk
 * Angular 2 and NodeJS - The Practical Guide to MEAN Stack 2.0  
 https://www.udemy.com/angular-2-and-nodejs-the-practical-guide/learn/v4/overview
 
+## Mockups
+
+faker.js - generate massive amounts of fake data in the browser and node.js
+https://github.com/Marak/faker.js
+
 ## MongoDB
 
 * MongoDB University 
@@ -339,6 +344,7 @@ https://www.youtube.com/watch?v=fBNz5xF-Kx4
 
 * ShapeShed.com : Creating a Basic NodeJS + ExpressJS App from Scratch: 
 https://shapeshed.com/creating-a-basic-site-with-node-and-express/
+
 ## Optimization Tools
 
 * CSS Compressor
@@ -544,6 +550,8 @@ https://developer.apple.com/design/human-interface-guidelines/
 http://patterntap.com/
 * Learn UI Design
 http://learnui.design/
+* Semantic UI: Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML.
+https://semantic-ui.com/
 * Touch Gesture Icons Sketch Resource
 https://www.sketchappsources.com/free-source/476-touch-gesture-icons.html
 * UI Guidelines
